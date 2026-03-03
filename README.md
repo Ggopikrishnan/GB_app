@@ -1,16 +1,39 @@
-# gb_app
+# GB App
 
-A new Flutter project.
+GB App is a Flutter-based mobile application. This project serves as a starting point for building cross-platform apps using Flutter.
+
+---
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the App](#running-the-app)
+- [Project Structure](#project-structure)
+- [Useful Resources](#useful-resources)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- A code editor such as [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
+- A device or emulator for testing
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Ggopikrishnan/GB_app.git
+cd GB_app
